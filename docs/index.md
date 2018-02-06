@@ -4,3 +4,9 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
+
+* [text-file-with-links](/htdocs/text-documents/text-file-with-links.txt)
+
+* [example-pdf-with-links](/htdocs/pdf-documents/example-pdf-with-links.pdf)
+
+* [seo-macroscope-home-page-qrcode](/htdocs/qrcodes/seo-macroscope-home-page-qrcode.png)

@@ -1,0 +1,7 @@
+Example text file with links
+
+This is some text. This is a link: https://nazuke.github.io/SEOMacroscope/ . This is some more text.
+
+This is some more text. This is another link: https://nazuke.github.io/MacroscopeTestHarness/ . This is some more text.
+
+Final paragraph.
