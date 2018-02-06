@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Host: https://nazuke.github.io
+
+User-agent: SEOMacroscope
+Allow: /
+Crawl-Delay: 1
