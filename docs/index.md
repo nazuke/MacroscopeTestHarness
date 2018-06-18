@@ -5,10 +5,8 @@
 layout: home
 ---
 
-# {{ site.title | escape }}
+* [text-file-with-links]({{ "/htdocs/text-documents/text-file-with-links.txt" | relative_url }})
 
-* [text-file-with-links](/htdocs/text-documents/text-file-with-links.txt)
+* [example-pdf-with-links]({{ "/htdocs/pdf-documents/example-pdf-with-links.pdf" | relative_url }})
 
-* [example-pdf-with-links](/htdocs/pdf-documents/example-pdf-with-links.pdf)
-
-* [seo-macroscope-home-page-qrcode](/htdocs/qrcodes/seo-macroscope-home-page-qrcode.png)
+* [seo-macroscope-home-page-qrcode]({{ "/htdocs/qrcodes/seo-macroscope-home-page-qrcode.png" | relative_url }})
