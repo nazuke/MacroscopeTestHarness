@@ -3,6 +3,7 @@
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
+title: SEO Macroscope Test Harness
 ---
 
 * [text-file-with-links]({{ "/htdocs/text-documents/text-file-with-links.txt" | relative_url }})
