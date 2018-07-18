@@ -9,7 +9,19 @@
 
     <main class="page-content" aria-label="Content">
       <div class="wrapper">
+
         {{ content }}
+
+        <section class="row">
+          <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+            {% if jekyll.environment == 'production' %}
+              {% include google-adsense.html %}
+            {% else %}
+              <div>GOOGLE ADSENSE NOT INCLUDED IN DEVELOPMENT MODE</div>
+            {% endif %}
+          </div>
+        </section>
+
       </div>
     </main>
 
