@@ -9,4 +9,4 @@ title: SEO Macroscope Test Harness
 
 * [seo-macroscope-home-page-qrcode]({{ "/htdocs/qrcodes/seo-macroscope-home-page-qrcode.png" | relative_url }})
 
-* [keyword-analysis]({{ "/htdocs/keyword-analysis/index.md" | relative_url }})
+* [keyword-analysis]({{ "/htdocs/keyword-analysis/" | relative_url }})
